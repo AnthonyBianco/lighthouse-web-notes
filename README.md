@@ -4,4 +4,4 @@
 
 This repository contains all of the notes taken by [Your Name] for the Lighthouse Labs Web Development Bootcamp
 
-[https://github.com/AnthonyBianco](https://www.lighthouselabs.ca/)
+[Anthony Bianco](https:www.lighthouselabs.ca/)
